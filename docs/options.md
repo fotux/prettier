@@ -1,6 +1,6 @@
 ---
 id: options
-title: Options
+title: Options (by fotux)
 ---
 
 Prettier ships with a handful of format options.
